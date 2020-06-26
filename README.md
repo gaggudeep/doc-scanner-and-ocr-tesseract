@@ -3,4 +3,6 @@ In this project I have used OpenCV to create a module which transforms a raw doc
 ## Doc Scanner Example
 ![Scanned Doc](https://github.com/gaggudeep/doc-scanner-and-ocr-tesseract-opencv/blob/master/output/doc_scan.gif)
 ## Text Recognition Example
-![Text Recongnition]()
+![Text Recongnition](https://github.com/gaggudeep/doc-scanner-and-ocr-tesseract-opencv/blob/master/output/text.gif)
+## Reference
+Thanks to Dr. Adrian Rosebrock, founder of pyimagesearch.com
